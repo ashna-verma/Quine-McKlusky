@@ -1,2 +1,2 @@
-# Quene-McKlusky
+# Quine-McKlusky
  
