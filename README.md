@@ -1,4 +1,4 @@
-# Quene-McKlusky
+# Quine-McKlusky
  
  Quine McKlusky is a method to minimize boolean functions which are mathematical functions that output either "true" or "false".
 
